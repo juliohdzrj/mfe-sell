@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        Hello! This content is hosted locally.
+        MFE container.
       </main>
     </div>
   )
